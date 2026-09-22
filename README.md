@@ -1,7 +1,7 @@
 # anymapper
 
 x64 Windows kernel driver mapper. It loads an unsigned/arbitrary `.sys` driver
-into kernel memory from user-mode by abusing [`anycall`](https://github.com/kkent030315/anycall)
+into kernel memory from user-mode by abusing [`anycall`](https://github.com/EitaPreulaJhol/anycall)
 through a vulnerable driver.
 
 > This is a fork of [kkent030315/anymapper](https://github.com/kkent030315/anymapper)
